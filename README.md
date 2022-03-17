@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naclazzy
-- 👀 I’m interested in developing Software and Ethereum
+- 👀 I’m interested in Webdevelopment and Solidity
 - 🌱 I’m currently learning JS, Python, Web Development  
-- 💞️ I’m looking to collaborate on open source Ethereum projects
+- 💞️ I’m looking to collaborate with Elon Musk
 - 📫 How to reach me ...
 
 <!---
