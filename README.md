@@ -28,8 +28,6 @@ Here are some common tasks I’m asked to help with, but really anything you mig
 
 > 🏪 Complete store setups
  > 
-> 🧭 Store migrations (Woo-commerce, Big Commerce ...)
- > 
 > 🎨 Theme customizations
  > 
 > ⚙️ Third-party app integrations
